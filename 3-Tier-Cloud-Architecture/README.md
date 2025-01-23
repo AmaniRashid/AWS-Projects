@@ -13,12 +13,6 @@ A 3-tier architecture typically consists of three layers:
 2. **Application Tier (Private Subnet):** Application servers to handle business logic.
 3. **Database Tier (Private Subnet):** A database server for storing data.
 
-### Architecture Diagram
-
-Include the uploaded architecture diagram here (placeholder):
-![3-Tier Architecture Diagram](3 Tier topology.png)
-
-
 ## Step 1: Create a VPC and Subnets
 
 ### 1.1 Create a VPC
