@@ -10,7 +10,8 @@ As I work through these projects, my main objective is to enhance my understandi
 
 ## Projects
 
-* **[Project 1: AWS 3-Tier Architecture Setup Guide](3 Tier Cloud Architectur)** 
+* **[Project 1: AWS 3-Tier Architecture Setup Guide](3 Tier Cloud Architecture)** 
+
     * This guide provides step-by-step instructions to create a 3-tier architecture in AWS, including VPCs, subnets, security groups, servers, and a database. Follow the steps below to set up your environment.
 
 ## Goals
