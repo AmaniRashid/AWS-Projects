@@ -1,4 +1,4 @@
-# 3tier cloudarchitecture
+# 3tier cloud architecture
 
 ![Architecture Diagram](<3 Tier topology.png>)
 # AWS 3-Tier Architecture Setup Guide
